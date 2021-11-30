@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a81414c4-cdbc-4f51-a4e1-506959fe7e27": {
+      "ProjectGuid": "a81414c4-cdbc-4f51-a4e1-506959fe7e27",
+      "DisplayName": "MathLibrary",
+      "ColorIndex": 0
+    },
+    "f8c92300-ba98-43ea-8205-7ebb41ed8ade": {
+      "ProjectGuid": "f8c92300-ba98-43ea-8205-7ebb41ed8ade",
+      "DisplayName": "MathClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
